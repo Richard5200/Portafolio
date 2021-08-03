@@ -4,3 +4,4 @@ problema con algunas imagenes se guardaran los enlaces para dar creditos a los a
 Link de autores:  
 https://www.flaticon.com/authors/freepik
 https://www.flaticon.es/autores/pixel-perfect
+https://www.flaticon.com/authors/prosymbols
