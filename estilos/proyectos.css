@@ -1,0 +1,24 @@
+.p-1{
+    border-radius: 30px;
+    display: flex;
+    flex-flow:  wrap;
+    justify-content: flex-start;
+    align-content: center;
+    background-color: #0077FF;
+    width: 90%;
+}
+.caja-p-1{
+    padding: 20px 40px;
+    flex-grow: 1;
+}
+.text-p-1{
+    flex-grow: 80;
+}
+.img-p{
+    float: left;
+    width: 100%;
+    height: auto;
+}
+.fuente1{
+    font-size: calc(1em + 1vw)
+}

@@ -1,0 +1,11 @@
+.contenedor-tabla{   
+    width: 80%;
+    display: flex;
+    flex-flow:  wrap;
+    justify-content: space-around;
+    align-content: center;
+    }
+    .subtitulo{
+        padding: 0px 10%;
+    }
+    
