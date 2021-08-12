@@ -50,21 +50,6 @@ display: inline-block;
 100% { transform: rotate( 0.0deg) }
 }
 
-h1 span{
-    
-    animation: maquina 5s infinite alternate step(28);
-
-}
-
-@keyframes maquina {
-    from{
-        width: 100%;
-    }
-    to{
-        width: 0;
-    }
-    
-}
 @media (min-width: 1500px) {
     h1 {
           font-size: 57px;
