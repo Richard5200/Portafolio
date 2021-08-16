@@ -69,8 +69,8 @@ header label:hover {
     .menu{
         text-align:center;
         position:absolute;
-        width: 55%;
-        margin-left: -55%;
+        width: 68%;
+        margin-left: -68%;
         transition: all 0.5s;
     }
     .menu ul {

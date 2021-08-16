@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="estilos/descripcion_estilos.css">
     <link rel="stylesheet" href="estilos/tabla-habilidades.css">    
     <link rel="stylesheet" href="estilos/proyectos.css">  
-    <link rel="stylesheet" href="estilos/formulario.css">  
+    <link rel="stylesheet" href="estilos/contacto.css">  
     <title>Ricardo|Portafolio</title>
 </head>
 <body>
@@ -16,6 +16,6 @@
     <?php include("descripcion.php")?>
     <?php include("tabla-habilidades.php")?>
     <?php include("proyectos.php")?>
-    <?php include("formulario.php")?>
+    <?php include("contacto.php")?>
 </body>
 </html>
