@@ -8,6 +8,11 @@
  
 }
 
+.contenedor_contacto a {
+    text-decoration: none;
+    border:none;
+}
+
 .tarjeta{
     background-color: #0F0E0E;
     width: 388px;
@@ -90,6 +95,25 @@ input::placeholder {
 
 @media (max-width:621px) {
     .contenedor_formulario form{
-        display: block;        
+        display: block;     
+
     }   
+  
 }
+@media (max-width:412px) {
+    .tarjeta h1{
+
+        font-size:20px;
+        margin: 20px;
+    }
+    
+}
+@media (max-width:280px) {
+    .tarjeta h1{
+
+        font-size:15px;
+        margin: 10px;
+    }
+    
+}
+
