@@ -22,6 +22,7 @@
     justify-content: center;
     cursor: pointer;
     margin-top: 35px;
+    flex-wrap: wrap;
 }
 .tarjeta h1{
 
@@ -101,6 +102,10 @@ input::placeholder {
   
 }
 @media (max-width:412px) {
+    .tarjeta{
+        flex-wrap: wrap;
+        width: 90%;
+    }
     .tarjeta h1{
 
         font-size:20px;
@@ -109,6 +114,9 @@ input::placeholder {
     
 }
 @media (max-width:280px) {
+    .tarjeta{
+        flex-wrap: wrap;
+    }
     .tarjeta h1{
 
         font-size:15px;
